@@ -1,0 +1,12 @@
+ay projet sue le web simple ou complexe
+depot local depot distant 
+workflow 3 pipieline multi-branche 
+ 
+expliquer smoke test et pouq type heka 
+rapport les infos nec pour l'execution interface execution lien depot GitHub and docker hub pipeline capture al code al execution succee docker file performance docker file 
+capture code de git
+
+presentation 10min 
+lancer un pipeline et lancer un pipeline avec un echec 
+
+3decembre 
